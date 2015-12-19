@@ -1,4 +1,4 @@
-<h2><strong>ESP8266 Web Server Using SDK API</strong></h2>
+<h2><strong>Arduino Control using ESP8266 Web Server</strong></h2>
 
 This project provides a Web Server Framework supporting http requests to access Arduino resources.
 
@@ -59,7 +59,7 @@ The returned value in the web browser should be:
 
 Digital Channel 04 is HI
 
-And if something is connected to channel 4, such as an LED, it should illuminate with this command.
+And if something is connected to the Arduino channel 4, such as an LED, it should illuminate with this command.
 
 Expansion:
 
